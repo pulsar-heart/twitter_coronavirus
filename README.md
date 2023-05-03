@@ -13,13 +13,13 @@ The `visualize.py` file was used to generate bar graphs displaying some of the d
 
 **Tweets Containing #coronavirus**
 
-<img src=coronalang.png width=100% />
+<img src=coronalang.png width=50% />
 
-<img src=coronacountry.png width=100% />
+<img src=coronacountry.png width=50% />
 
 **Tweets Containing #코로나바이러스**
 
-<img src=klang.png width=100% />
+<img src=klang.png width=50% />
 
-<img src=kcountry.png width=100% />
+<img src=kcountry.png width=50% />
 
